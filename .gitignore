@@ -1,0 +1,9 @@
+.env
+public_test_sessions/
+uploads/
+results/
+sample_data/
+jobs/
+__pycache__/
+*.pyc
+*.xlsx
